@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "label": "Pipocas"
+    },
+
+    {
+        "id": 2,
+        "label": "Refrigerantes"
+    },
+
+    {
+        "id": 3,
+        "label": "Doces"
+    },
+
+    {
+        "id": 4,
+        "label": "Combos"
+    }
+]
